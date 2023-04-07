@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;    
+    background-color: rgb(130, 36, 36);
+}
+h1 {
+    color: rgb(225, 220, 220);
+}
+td {
+   width: 100px;
+   height: 30px;
+   background-color: rgb(8, 142, 93);
+}
+th{
+    padding-bottom: 13px;
+}
+table{
+    margin-left: 35%;
+}
+iframe{
+    margin-left: 12%;
+}
